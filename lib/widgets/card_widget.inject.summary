@@ -1,0 +1,8 @@
+{
+  "asset": "asset:boilerplate/lib/widgets/card_widget.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

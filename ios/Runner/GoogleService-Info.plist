@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>667133236298-i97o8e4ngkq49562ivq2gqqes9f4fvvh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.667133236298-i97o8e4ngkq49562ivq2gqqes9f4fvvh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>667133236298-4t4pq6977jprkdtuqlf3r3o9skh4r249.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtt0oMy3q5XBO7K_OOVFS2B5-W0ntgt7g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667133236298</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.carfren.app</string>
+	<key>PROJECT_ID</key>
+	<string>aetnabrokers</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aetnabrokers.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667133236298:ios:2c7722bb4f8c9a66af82b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://aetnabrokers.firebaseio.com</string>
+</dict>
+</plist>

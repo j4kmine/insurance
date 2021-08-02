@@ -1,0 +1,8 @@
+{
+  "asset": "asset:boilerplate/lib/ui/login/enter_otp.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "667133236298",
+    "firebase_url": "https://aetnabrokers.firebaseio.com",
+    "project_id": "aetnabrokers",
+    "storage_bucket": "aetnabrokers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667133236298:android:eaffb3b64011d8bfaf82b3",
+        "android_client_info": {
+          "package_name": "com.aetnabrokerscustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667133236298-dk89n11m2jnc9tbubogj97ljl8egmn05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aetnabrokerscustomerapp",
+            "certificate_hash": "85da027a5f856d1e19832214fd537813503a7574"
+          }
+        },
+        {
+          "client_id": "667133236298-8en15opqlllub5nthcphsvmu1msoo3et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCifwJ0OR2ASNjIVV7y0FwIrE9uLgQbIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667133236298-8en15opqlllub5nthcphsvmu1msoo3et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667133236298-72laqo23gsjst625tk6ea93gquf96130.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aetnabrokers.aetna"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667133236298:android:290c8e15449962f6af82b3",
+        "android_client_info": {
+          "package_name": "com.carfren.aetna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667133236298-4t4pq6977jprkdtuqlf3r3o9skh4r249.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carfren.aetna",
+            "certificate_hash": "236aa3363c363df1510c361358d4ecf98016a927"
+          }
+        },
+        {
+          "client_id": "667133236298-jq329njon1ai6dp9naufns3sev2tep95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carfren.aetna",
+            "certificate_hash": "c49d67d0e0f13e9ffe712af453b7f50d2da78214"
+          }
+        },
+        {
+          "client_id": "667133236298-8en15opqlllub5nthcphsvmu1msoo3et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCifwJ0OR2ASNjIVV7y0FwIrE9uLgQbIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667133236298-8en15opqlllub5nthcphsvmu1msoo3et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667133236298-72laqo23gsjst625tk6ea93gquf96130.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aetnabrokers.aetna"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

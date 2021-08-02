@@ -1,0 +1,8 @@
+{
+  "asset": "asset:boilerplate/lib/models/vehicle/access.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

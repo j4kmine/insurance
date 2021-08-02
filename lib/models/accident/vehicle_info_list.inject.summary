@@ -1,0 +1,8 @@
+{
+  "asset": "asset:boilerplate/lib/models/accident/vehicle_info_list.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

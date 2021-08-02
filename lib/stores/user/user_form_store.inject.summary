@@ -1,0 +1,8 @@
+{
+  "asset": "asset:boilerplate/lib/stores/user/user_form_store.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}
